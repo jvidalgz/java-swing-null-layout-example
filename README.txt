@@ -1,0 +1,1 @@
+simple code example of null layout manager in java. http://www.java2s.com/
